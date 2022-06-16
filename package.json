@@ -1,0 +1,13 @@
+{
+    "name": "gcloud-mqtt-iotest",
+    "version": "1.0.0",
+    "main": "mqtt-pubtest.js",
+    "author": "MEDESUUU",
+    "license": "Apache-2.0",
+    "engines": {
+      "node": ">=8.0.0"
+    },
+    "dependencies": {
+      "@google-cloud/pubsub": "^2.0.0"
+    }
+  }
